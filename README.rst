@@ -5,6 +5,7 @@ Sample crawler for yellow pages.
 
 
 ::
+
    $ scrapy crawl listings -o business.json -a search=cupcakes -a geo='Tucson, AZ'
    ...
    ...
